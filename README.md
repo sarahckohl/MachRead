@@ -6,3 +6,12 @@ highlighting each word in turn at the selected reading speed.  That is, Mach Rea
 
 ## How does it work?
 Mach Read is based on research regarding speed reading.  Unlike similar plugins, Mach Read aids training in real world speed reading skills that can be in books as well as web browsers.
+
+
+
+##Possible Premium Features
+ *Color selection
+ *Larger chunking
+ *Toggle line covering (from default)
+ *Next-fixation point leading
+ 
