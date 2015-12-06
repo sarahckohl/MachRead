@@ -10,8 +10,8 @@ Mach Read is based on research regarding speed reading.  Unlike similar plugins,
 
 
 ##Possible Premium Features
- *Color selection
- *Larger chunking
- *Toggle line covering (from default)
- *Next-fixation point leading
+ * Color selection
+ * Larger chunking
+ * Toggle line covering (from default)
+ * Next-fixation point leading
  
